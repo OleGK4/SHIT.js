@@ -72,7 +72,7 @@ function shit(){
 }
 
 do{
-    eat(prompt("Что будет вашей сегодняшней трапезой? \n('cheese' || 'tomato' || 'bread')", 'toato'));
+    eat(prompt("Что будет вашей сегодняшней трапезой? \n('cheese' || 'tomato' || 'bread')", 'tomato'));
     if (shit_flag === true){
         shit();
     }
